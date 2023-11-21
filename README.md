@@ -1,11 +1,12 @@
-TypeScript
+<h1>TypeScript</h1>
 
-npm install -g typescript
-tsc --init
-tsc
-tsc -w
-npm init -y
-npm i --save-dev @web/dev-server
-"scripts": { "start": "web-dev-server --node-resolve --open --watch" },
-
-npm start
+<ul>
+<li>npm install -g typescript</li>
+<li>tsc --init</li>
+<li>tsc</li>
+<li>tsc -w</li>
+<li>npm init -y</li>
+<li>npm i --save-dev @web/dev-server</li>
+<li>"scripts": { "start": "web-dev-server --node-resolve --open --watch" },</li>
+<li>npm start</li>
+</ul>
